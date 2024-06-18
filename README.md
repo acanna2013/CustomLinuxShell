@@ -1,5 +1,4 @@
-**Haoran Wang**
-**Oct 22 2017**
+
 
 # Features that WORK:
 * Part 1: Parsing and Executing Commands
